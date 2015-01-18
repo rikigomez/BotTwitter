@@ -51,8 +51,8 @@ import javax.swing.JTextPane;
  * 
  * Clase de la interfaz de usuario de la aplicacion creada a partir del plugin de eclipse windowBuilder,
  * https://eclipse.org/windowbuilder/, esta clase es la main de la aplicacion, desde esta se crea el objeto
- * NHH de la clase NoHayHuevos y se inicializa con el objeto autorizacion. Despues de eso se inicializa el
- * thread de NHH que realiza la funcion del bot.
+ * BOT de la clase BotTwitter y se inicializa con el objeto autorizacion. Despues de eso se inicializa el
+ * thread de BOT que realiza la funcion del bot.
  */
 public class InterfazUsuario {
 /////////////////////////////////// ATRIBUTOS ///////////////////////////////////////////////////////////////////////////////
